@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    color: chartreuse;
+    font-weight: bolder;
+    text-align: center;
+}
+.one{
+    font-weight: bold;
+    text-align: center;
+    color: chartreuse;
+    font-size: larger;
+}
+.two{
+    text-align: center;
+    height: 40px;
+    border-radius: 30px;
+    color: black;
+}
+.twoe{
+    text-align: center;
+    height: 40px;
+    border-radius: 30px;
+    width: 180px;
+    color: black;
+}
+.bun{
+    margin-top: 20px;
+    margin-left: 50px;
+    border-radius: 30px;
+    height: 40px;
+    width: 80px;
+}
+.bon{
+    margin-top: 20px;
+    margin-left: 30px;
+    border-radius: 30px;
+    height: 40px;
+    width: 80px;
+}
+.lis{
+    font-size: 40px;
+    
+}
